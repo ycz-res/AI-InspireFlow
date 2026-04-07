@@ -25,3 +25,7 @@
 | [paper-interpretation](./paper-interpretation/) | 论文解读案例 PDF |
 | [course-learning](./course-learning/) | 专业课知识学习案例 PDF |
 | [other](./other/) | 其他 PDF |
+
+---
+
+**版权与署名**：康复大学 · 康复科学与工程学院 · 周平团队；陈俊君、赵延超。（详见仓库根目录 [README.md](../README.md)。）
